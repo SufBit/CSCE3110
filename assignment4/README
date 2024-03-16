@@ -1,0 +1,11 @@
+1. For avl tree: 
+   To compile:
+	g++ main.cpp avl.cpp
+   To run:
+	./a.out input1.txt
+
+2. For splay tree:
+   To compile:
+	g++ main.cpp splay.cpp
+   To run:
+	./a.out input1.txt
